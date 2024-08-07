@@ -8,7 +8,6 @@ As a front-end developer, I have experience and knowledge with Html, CSS, JavaSc
 * Linkedin: https://www.linkedin.com/in/gabriellagares/
 * My Portfolio: https://gdutralagares.github.io/
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -22,7 +21,6 @@ As a front-end developer, I have experience and knowledge with Html, CSS, JavaSc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="www.instagram.com/gabriel.lagares/" target="_blank">
@@ -37,9 +35,9 @@ As a front-end developer, I have experience and knowledge with Html, CSS, JavaSc
   </a>
 </div>
 
-###
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gdutralagares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+-->
 
-###
