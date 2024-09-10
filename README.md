@@ -20,7 +20,7 @@ As a front-end developer, I have experience and knowledge with Html, CSS, JavaSc
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-
+<br>
 
 <div align="left">
       <a href="https://discord.com/channels/@gabriel.lagares8395" target="_blank">
