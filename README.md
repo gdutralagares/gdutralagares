@@ -8,7 +8,7 @@ As a front-end developer, I have experience and knowledge with Html, CSS, JavaSc
 * Linkedin: https://www.linkedin.com/in/gabriellagares/
 * My Portfolio: https://gdutralagares.github.io/
 
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
