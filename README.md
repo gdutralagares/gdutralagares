@@ -4,7 +4,7 @@ I'm Gabriel, a dedicated front-end developer with a flair for creating immersive
 As a front-end developer, I have experience and knowledge with Html, CSS, JavaScript, and React.JS. I'm always open to connecting with fellow developers, designers, and professionals who share a passion for creating exceptional digital experiences. Whether it's discussing the latest tech trends or exploring potential collaborations, feel free to reach out!
 
 * I'm based in Brazil
-* YOu can contact me at gabriel.lagares20@gmail.com
+* Contact me at gabriel.lagares20@gmail.com
 * Linkedin: https://www.linkedin.com/in/gabriellagares/
 * My Portfolio: https://gdutralagares.github.io/
 
